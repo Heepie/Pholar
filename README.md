@@ -1,12 +1,18 @@
 # PHOLAR
-
-## 소개
-안드로이드 개발 ( with Firebase ) 공부를 목적으로 네이버 소셜 포토블로그 앱인 'PHOLAR' 를 카피하기로 했습니다.</br></br>
-일주일이라는 짧은 기간 동안 개발과 공부를 병행해야 했기 때문에 특수한 기능들을 빼고, 기존에 학습했던 기능들과
-배워보고 싶고, 사용해보고 싶은 기능들을 위주로 구현하였습니다.</br>
-
-## 요약
-![table](https://github.com/Heepie/Pholar/blob/master/img/table.png)
+- 프로젝트 소개
+  1. 네이버의 앨범 기반의 SNS “PHOLAR” 앱 기능 따라 구현
+  2. 기간: Dec.18, 2017 ~ Dec.25, 2017 (일주일)
+  
+- 프로젝트의 목적
+  1. Google Firebase 이해
+      - Notification 이해 ([http://heepie.tistory.com/185](http://heepie.tistory.com/185))
+      - Realtime DB 이해 ([http://heepie.tistory.com/182](http://heepie.tistory.com/182))
+      - 인증 이해 ([http://heepie.tistory.com/181](http://heepie.tistory.com/181))
+    
+  2. Android 이해
+      - 권한 설정 ([http://heepie.tistory.com/98](http://heepie.tistory.com/98))
+      - Recycler View ([http://heepie.tistory.com/77](http://heepie.tistory.com/77))
+      - ViewPager ([http://heepie.tistory.com/107](http://heepie.tistory.com/107))
 
 ## 스크린샷
 ![screenshot1](https://github.com/Heepie/Pholar/blob/master/img/screen1.PNG)
