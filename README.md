@@ -5,7 +5,7 @@
   
 - 프로젝트의 목적
   1. Google Firebase 이해
-      - Notification 이해 ([http://heepie.tistory.com/185](http://heepie.tistory.com/185))
+      - [Notification 이해](http://heepie.tistory.com/185)
       - Realtime DB 이해 ([http://heepie.tistory.com/182](http://heepie.tistory.com/182))
       - 인증 이해 ([http://heepie.tistory.com/181](http://heepie.tistory.com/181))
     
